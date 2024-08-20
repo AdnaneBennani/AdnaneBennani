@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Laravel - Nextjs**
 
-- 👨‍💻 All of my projects are available at [portfolio soon](portfolio soon)
+- 👨‍💻 All of my projects are available at https://adnaneportfolio.vercel.app
 
 - 📫 How to reach me **bannanyadnane@gmail.com**
 
