@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **bannanyadnane@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/65ce21453f108](https://cvdesignr.com/p/65ce21453f108)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
